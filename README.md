@@ -1,12 +1,13 @@
 ## ATM
-
+The exercise combines understanding of State and validation in a React app, mimicking the ability to deposit and withdraw money from an ATM
 
 ## Usage
 
+To run this project, clone the repo to your local machine and run npm start in your terminal or code editor. In order to remove a task completely from the list, click twice.
 
 ## Future Enhancements
-* 
-* 
+* Better UI
+* Improved validation
 
 ## License
  
